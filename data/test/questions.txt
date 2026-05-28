@@ -1,0 +1,50 @@
+Khối lượng kiến thức tối thiểu đối với một chương trình đào tạo đại học chuẩn của ĐHQGHN là bao nhiêu tín chỉ?
+Thời gian học tập tối đa cho phép đối với chương trình đào tạo chuẩn thiết kế 4 năm là bao lâu?
+Để được phép học cùng lúc hai chương trình đào tạo, sinh viên cần có điểm trung bình chung học kỳ đạt từ loại gì trở lên?
+Sinh viên năm thứ nhất có mức điểm trung bình chung học kỳ dưới bao nhiêu thì sẽ bị cảnh báo học tập?
+Theo thang điểm hệ 4, mức điểm trung bình chung tích lũy dưới bao nhiêu thì sinh viên bị cảnh báo học tập?
+Sinh viên bị cảnh báo học tập tối đa bao nhiêu lần liên tiếp thì sẽ bị buộc thôi học?
+Trên thang điểm hệ 4 của ĐHQGHN, điểm chữ A+ tương ứng với mức điểm số học phần là bao nhiêu?
+Trên thang điểm 10, khoảng điểm từ 0,0 đến 3,9 tương ứng với điểm chữ nào theo hệ thống đánh giá?
+Mức điểm D+ được quy đổi tương đương với khoảng nào trên hệ thang điểm 10?
+Để đạt hạng tốt nghiệp xuất sắc, điểm trung bình chung tích lũy của sinh viên phải nằm trong khoảng từ bao nhiêu trở lên?
+Sinh viên đạt hạng tốt nghiệp loại giỏi sẽ bị hạ xuống một mức nếu tổng số tín chỉ học lại vượt quá bao nhiêu phần trăm?
+Một tín chỉ lý thuyết tương đương với bao nhiêu giờ học trên lớp?
+Một tín chỉ thực hành, thí nghiệm được quy định kéo dài trong khoảng bao nhiêu giờ?
+Một tín chỉ bài tập lớn hoặc đồ án môn học yêu cầu thời gian sinh viên chuẩn bị cá nhân là bao nhiêu giờ?
+Khối lượng học tập tối thiểu mà một sinh viên có học lực bình thường phải đăng ký trong một học kỳ chính là bao nhiêu tín chỉ?
+Số tín chỉ tối đa mà một sinh viên được phép đăng ký trong một học kỳ chính là bao nhiêu?
+Kể từ đầu học kỳ chính, sinh viên có thời hạn tối đa bao nhiêu tuần để xin rút bớt học phần đã đăng ký?
+Chứng chỉ ngoại ngữ tiếng Anh VSTEP B1 tương đương với bậc mấy trong Khung năng lực ngoại ngữ 6 bậc?
+Điểm đánh giá một học phần bao gồm điểm đánh giá thành phần và loại điểm nào khác?
+Trọng số của bài thi kết thúc học phần chiếm tối thiểu bao nhiêu phần trăm trong tổng điểm học phần?
+Trọng số của bài thi kết thúc học phần được phép chiếm tối đa bao nhiêu phần trăm trong tổng điểm học phần?
+Sau ngày thi, đơn vị đào tạo phải công bố điểm thi kết thúc học phần chậm nhất trong vòng bao nhiêu ngày?
+Sinh viên xin nghỉ học đi làm nghĩa vụ quân sự được bảo lưu kết quả học tập tối đa bằng khoảng thời gian nào?
+Sinh viên muốn nghỉ học tạm thời vì lý do cá nhân phải hoàn thành tối thiểu bao nhiêu học kỳ tại trường mới được xét duyệt?
+Sinh viên có thời hạn bao nhiêu ngày kể từ lúc công bố điểm để nộp đơn xin phúc khảo bài thi?
+Kỳ thi phụ để đánh giá lại học phần phải được tổ chức cách kỳ thi chính ít nhất bao nhiêu tuần?
+Sinh viên sẽ bị cấm thi nếu vắng mặt không phép quá bao nhiêu phần trăm tổng số giờ lên lớp của học phần?
+Khối lượng tín chỉ dành cho khóa luận tốt nghiệp của bậc đại học thường dao động trong khoảng nào?
+Theo định mức quản lý, một chuyên viên đào tạo đại học trung bình sẽ phụ trách trực tiếp bao nhiêu sinh viên chính quy?
+Để được phép bảo vệ khóa luận tốt nghiệp, sinh viên không được đang trong thời gian bị kỷ luật từ mức nào trở lên?
+Điểm học phần của các môn thuộc nhóm Giáo dục quốc phòng an ninh có được tính vào điểm trung bình chung tích lũy không?
+Điểm học phần Ngoại ngữ thuộc khối kiến thức chung có được cộng vào điểm trung bình chung học kỳ không?
+Văn bằng tốt nghiệp thứ hai (chương trình kép) của sinh viên có bị ghi dòng chữ "Bằng thứ hai" trên phôi bằng không?
+Điểm chữ B được quy đổi sang mức điểm nào trên thang hệ 10?
+Ngành Hệ thống thông tin của Trường Đại học Công nghệ có mã xét tuyển là gì?
+Mã ngành xét tuyển của ngành Vật lý kỹ thuật tại UET là gì?
+Mã xét tuyển của ngành Cơ kỹ thuật thuộc UET là gì?
+Chương trình đào tạo Trí tuệ nhân tạo (AI) của UET có mã đăng ký là gì?
+Chương trình Kỹ sư Nông nghiệp thông minh của Trường Đại học Công nghệ được thiết kế học trong mấy năm?
+Sinh viên theo học ngành Công nghệ Hàng không vũ trụ (CN9) khi ra trường được nhận bằng Cử nhân hay Kỹ sư?
+Trong Đề án 2024, chỉ tiêu xét tuyển cho ngành Trí tuệ nhân tạo (CN14) dự kiến là bao nhiêu sinh viên?
+Dự kiến chỉ tiêu tuyển sinh cho ngành Kỹ thuật máy tính (CN8) trong năm 2024 là bao nhiêu?
+Các tòa giảng đường nào tại Cơ sở Hòa Lạc được phân bổ làm nơi học tập cho sinh viên năm nhất của UET?
+Địa chỉ trang thông tin điện tử phục vụ công tác tuyển sinh của Trường Đại học Công nghệ (UET) là gì?
+Ngành Mạng máy tính và truyền thông dữ liệu của UET sử dụng mã đăng ký xét tuyển nào?
+Ngành nào của Trường Đại học Công nghệ có tổng chỉ tiêu tuyển sinh lớn nhất trong năm 2024?
+Năm 2023, tỷ lệ sinh viên nhập học theo phương thức xét điểm thi THPT (mã 100) của UET đạt bao nhiêu phần trăm so với chỉ tiêu?
+Mức kinh phí nhà trường tài trợ tối đa cho một đề tài nghiên cứu khoa học của nhóm sinh viên là bao nhiêu tiền?
+Năm tốt nghiệp của khóa sinh viên ngành Công nghệ thông tin được khảo sát tỷ lệ việc làm 100% trong đề án là năm nào?
+Giảng viên thỉnh giảng có được tính vào danh sách nhân sự cơ hữu để xác định chỉ tiêu tuyển sinh đại học không?
