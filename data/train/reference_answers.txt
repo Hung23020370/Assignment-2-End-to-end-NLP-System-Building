@@ -1,50 +1,50 @@
-Nhà E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội
-2960; 2960 chỉ tiêu
+144 Xuân Thủy; Cầu Giấy; Hà Nội
+2960
 033 492 4224
-6; 06; 6 ngành
+06
 QHI
-01 laptop; 1 laptop; laptop
-30,000 đ; 30.000 đ; 30,000 VNĐ
-1100/1600; 1100/1600 điểm trở lên; 1100 điểm
-40,000,000; 40.000.000; 40 triệu
+Xe bus
+30.000 đồng
+1100
+40 triệu đồng/năm
 Chử Đức Trình
-12211
-024 3754 7461
+100000
+02437547061
 2004
 100
 401
 301
 409
-1705; 1705 chỉ tiêu
-CN11
-CN17
-CN12
-CN8
-Toán, Vật lý, Tiếng Anh; Toán, Lý, Anh
-Toán, Ngữ văn, Tiếng Anh; Toán, Văn, Anh
-Môn Toán; Toán
-30.000.000 đồng; 30 triệu; 30.000.000
-300.000.000 đồng; 300 triệu; 300.000.000
-8; 8 kỳ; 08 học kỳ
-2.000.000 đồng; 2 triệu; 2.000.000
-10 tỷ đồng; 10 tỷ; 10.000.000.000
-5.5; 5.5 điểm
-20.000 đ; 20.000 đồng; 20.000
-185,557; 185,557 tỷ đồng; 185,557 tỷ
-35.000.000 đồng; 35 triệu; 35.000.000
+1370
+CN10
+CN18
+CN1
+CN2
+Toán;Vật lý;Tiếng Anh
+Toán;Ngữ văn;Tiếng Anh
+Toán
+32 triệu đồng/năm
+100 triệu đồng
+8 học kỳ
+24 triệu đồng
+8 tỷ đồng
+5.5
+20.000 đồng
+527 tỷ đồng
+37,7 triệu đồng
 7480102
-364; 364 chỗ
-600; 600 chỗ
-100; 100%
-100; 100%
-55; 55 phòng
-9000; 9.000; 9000 m2
-327; 327 người
-27.25; 27,25; 27.25 điểm
-10/07/2024; 10/7/2024
-CN9
-CN5
+450
+2000
+100%
+100%
+95
+2070
+321
+35.55
+15/7/2024
+CN7
+CN6
 A00
-Hệ chuyên; Học sinh chuyên
-Khu Công nghệ cao Hòa Lạc; Hòa Lạc
-408
+Học sinh chuyên
+Hòa Lạc
+402

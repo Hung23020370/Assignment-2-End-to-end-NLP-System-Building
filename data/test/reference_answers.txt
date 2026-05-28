@@ -10,7 +10,7 @@ F
 2 tuần
 Bậc 3
 Điểm thi kết thúc học phần
-50%
+60%s
 Thời gian nghĩa vụ quân sự
 20%
 Đình chỉ học tập
@@ -28,8 +28,8 @@ Kỹ sư
 320
 tuyensinh.uet.vnu.edu.vn
 CN15
-Khoa học máy tính
-Không
+Công nghệ thông tin
+Có
 2 lần
 50%
 1 chữ số
